@@ -5,3 +5,11 @@
 A curated list of awesome resources for learning Python.
 
 Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
+
+## Links for learning
+
+[For learning and practicing](https://www.w3schools.com/python/default.asp)
+
+[Python with MySQL](https://www.w3schools.com/python/python_mysql_getstarted.asp)
+
+[Free CS50 learning](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
