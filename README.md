@@ -13,3 +13,5 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [Python with MySQL](https://www.w3schools.com/python/python_mysql_getstarted.asp)
 
 [Free CS50 learning](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
+
+[Python page](https://www.learnpython.org/)
