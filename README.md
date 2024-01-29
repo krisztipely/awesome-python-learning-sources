@@ -15,3 +15,7 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [Free CS50 learning](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
 
 [Python page](https://www.learnpython.org/)
+
+## If you learnt JavaScript before
+
+[JavaScript vs Python](https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/)
