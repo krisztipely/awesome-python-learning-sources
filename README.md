@@ -16,6 +16,8 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 
 [Python page](https://www.learnpython.org/)
 
+[Ultimate beginner guide](https://www.freecodecamp.org/news/the-python-guide-for-beginners/)
+
 ## If you learnt JavaScript before
 
 [JavaScript vs Python](https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/)
